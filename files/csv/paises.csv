@@ -1,24 +1,24 @@
-﻿Pais,Value
-Italy,23
-Spain,18
-France,17
-Romania,16
-Slovenia,16
-Belgium,16
-United Kingdom,15
-Portugal,12
-Greece,12
-Slovakia,12
-Austria,11
-Czech Republic,11
-Poland,11
-Lithuania,11
-Hungary,10
-Ireland,10
-Germany,9
-Bulgaria,7
-Latvia,5
-Estornia,3
-Finland,2
-Sweden,1
-Denmark,-1
+﻿Country,Value
+Italy,-23
+Spain,-18
+France,-17
+Romania,-16
+Slovenia,-16
+Belgium,-16
+United Kingdom,-15
+Portugal,-12
+Greece,-12
+Slovakia,-12
+Austria,-11
+Czech Republic,-11
+Poland,-11
+Lithuania,-11
+Hungary,-10
+Ireland,-10
+Germany,-9
+Bulgaria,-7
+Latvia,-5
+Estornia,-3
+Finland,-2
+Sweden,-1
+Denmark,1
